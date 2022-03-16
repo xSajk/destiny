@@ -1,0 +1,6 @@
+// Funnelweb
+//notes:PvE: range, subsistence/autoloading+frenzy/adrenalin junkie
+dimwishlist:item=3341893443&perks=1820235745,4104185692
+dimwishlist:item=3341893443&perks=3300816228,4104185692
+dimwishlist:item=3341893443&perks=1820235745,11612903
+dimwishlist:item=3341893443&perks=3300816228,11612903
