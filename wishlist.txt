@@ -10,3 +10,7 @@ dimwishlist:item=3341893443&perks=3300816228,11612903
 // Father's Sins
 //notes:PvE godroll: max handling, 7mag (Extended, Appended, Tactical*), Tripple Tap+Focused Fury
 dimwishlist:item=3865728990,1840239774,106909392,3400784728,2896038713,186337601
+
+// Truthteller
+//notes:PvE: Blinding Grenades+Autoloading
+dimwishlist:item=1946491241,3032599245,3300816228
