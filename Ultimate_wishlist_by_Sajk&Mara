@@ -21,12 +21,17 @@ dimwishlist:item=1946491241,3032599245,3300816228
 dimwishlist:item=3849810018,3032599245,3300816228
 
 // Ignition Code
-//notes: PvE: Blinding Grenades+Slideshot
+//notes:PvE: Blinding Grenades+Slideshot
 dimwishlist:item=304659313,3032599245,3161816588
 
 // Submission
-//notes: PvE: Subsistence/Overflow+Frenzy/Demolitionist/Swashbuckler
+//notes:PvE: Subsistence/Overflow+Frenzy/Demolitionist/Swashbuckler
 dimwishlist:item=3886416794&perks=1820235745,4104185692
 dimwishlist:item=3886416794&perks=3643424744,4104185692
 dimwishlist:item=3886416794&perks=1820235745,3523296417
 dimwishlist:item=3886416794&perks=3643424744,3523296417
+
+// Cataclysmic
+//notes:PvE: FTTC+Bait and Switch/Focused Fury
+dimwishlist:item=999767358&perks=1354429876,3078487919
+dimwishlist:item=999767358&perks=1354429876,2896038713
