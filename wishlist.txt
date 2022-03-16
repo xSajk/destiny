@@ -1,4 +1,5 @@
 title:Sajkův pro-gamer wishlist
+Link pro import wishlistu: https://raw.githubusercontent.com/xSajk/destiny/dim/wishlist.txt
 
 // Funnelweb
 //notes:PvE: range, Subsistence/Autoloading+Frenzy/Adrenalin Junkie
