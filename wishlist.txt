@@ -1,8 +1,12 @@
 title:Sajkův pro-gamer wishlist
 
 // Funnelweb
-//notes:PvE: range, subsistence/autoloading+frenzy/adrenalin junkie
+//notes:PvE: range, Subsistence/Autoloading+Frenzy/Adrenalin Junkie
 dimwishlist:item=3341893443&perks=1820235745,4104185692
 dimwishlist:item=3341893443&perks=3300816228,4104185692
 dimwishlist:item=3341893443&perks=1820235745,11612903
 dimwishlist:item=3341893443&perks=3300816228,11612903
+
+// Father's Sins
+//notes:PvE: max handling, 7mag (Extended, Appended, Tactical*), Tripple Tap+Focused Fury
+dimwishlist:item=3865728990,1840239774,106909392,3400784728,2896038713,186337601
