@@ -1,0 +1,127 @@
+title:Pro-gamer wishlist zrozen v Madhousu
+description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
+
+//---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
+
+// Pardon Our Dust
+//notes:Kinetický GL, blindingy jsou OP. Určeno na občasné vystřelení/blindnutí mobek.|tags:pve
+dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156
+dimwishlist:item=3849810018&perks=3301904089,3300816228,960810156
+dimwishlist:item=3849810018&perks=3032599245,3300816228,1546637391
+dimwishlist:item=3849810018&perks=3301904089,3300816228,1546637391
+dimwishlist:item=3849810018&perks=3032599245,3300816228,3523296417
+dimwishlist:item=3849810018&perks=3301904089,3300816228,3523296417
+
+// Ignition Code
+//notes:Kinetický GL, blindingy jsou OP. Určeno na spamování blindingů všude kolem.
+dimwishlist:item=304659313&perks=3032599245,3161816588,960810156
+dimwishlist:item=304659313&perks=3301904089,3161816588,960810156
+dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391
+dimwishlist:item=304659313&perks=3032599245,3161816588,3523296417
+dimwishlist:item=304659313&perks=3301904089,3161816588,3523296417
+
+// Submission
+//notes:Raidový SMG, 900 RPM, trochu kope, ale má skvělej feel. Ekvivalent Extra Randyho s vyšším RPM/Escape Velocity.
+dimwishlist:item=3886416794&perks=1820235745,4104185692
+dimwishlist:item=3886416794&perks=3643424744,4104185692
+dimwishlist:item=3886416794&perks=1820235745,3523296417
+dimwishlist:item=3886416794&perks=3643424744,3523296417
+
+// Submission (Adept)
+//notes:Raidový SMG, 900 RPM, trochu kope, ale má skvělej feel. Ekvivalent Extra Randyho s vyšším RPM/Escape Velocity.
+dimwishlist:item=1941816543&perks=1820235745,4104185692
+dimwishlist:item=1941816543&perks=3643424744,4104185692
+dimwishlist:item=1941816543&perks=1820235745,3523296417
+dimwishlist:item=1941816543&perks=3643424744,3523296417
+
+// Supremacy
+//notes:PvE: 7mag, Snapshot + Tripple Tap
+dimwishlist:item=686951703
+dimwishlist:item=686951703,1087426260,957782887,3400784728
+dimwishlist:item=686951703,2420895100,957782887,3400784728
+
+// Deliverance
+//notes: Jediná kinetická fusiona; nemá nejhorší perky; Bait and Switch - raid perk; taky může být super|tags:pve
+dimwishlist:item=768621510&perks=1687452232,1799762209,3708227201
+dimwishlist:item=768621510&perks=689005463,1799762209,3708227201
+dimwishlist:item=768621510&perks=1687452232,3523296417,3708227201
+dimwishlist:item=768621510&perks=689005463,3523296417,3708227201
+dimwishlist:item=768621510&perks=1687452232,1799762209,11612903
+dimwishlist:item=768621510&perks=689005463,1799762209,11612903
+dimwishlist:item=768621510&perks=1687452232,3523296417,11612903
+dimwishlist:item=768621510&perks=689005463,3523296417,11612903
+
+// Deliverance (Adept)
+//notes:Jediná kinetická fusiona; nemá nejhorší perky; Bait and Switch - raid perk; taky může být super
+dimwishlist:item=2943293195&perks=1687452232,1799762209,3708227201
+dimwishlist:item=2943293195&perks=689005463,1799762209,3708227201
+dimwishlist:item=2943293195&perks=1687452232,3523296417,3708227201
+dimwishlist:item=2943293195&perks=689005463,3523296417,3708227201
+dimwishlist:item=2943293195&perks=1687452232,1799762209,11612903
+dimwishlist:item=2943293195&perks=689005463,1799762209,11612903
+dimwishlist:item=2943293195&perks=1687452232,3523296417,11612903
+dimwishlist:item=2943293195&perks=689005463,3523296417,11612903
+
+// Fatebringer (Adept)
+//notes: Asi nejlepší PvE handcannon; Godroll: range+Explosive Payload+Firefly|tags:PvE
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,4104185692,684616255
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734,684616255
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,3824105627,684616255
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,4104185692,2697220197
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734,2697220197
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,3824105627,2697220197
+
+// Fatebringer
+//notes: Asi nejlepší PvE handcannon; Godroll: range+Explosive Payload+Firefly|tags:PvE
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692,684616255
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1561789734,684616255
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,3824105627,684616255
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692,2697220197
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1561789734,2697220197
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,3824105627,2697220197
+
+// Heritage
+//notes: Nejlepší PvE Slug Shotty, pořád viable na hotswap; Godroll: handling+Assault Mag+Reconstruction+Recombination|tags:PvE
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294,186337601
+dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294,186337601
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294,2357520979
+dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294,2357520979
+
+// Piece of Mind
+//notes: Super kinetická pulska; Godroll: Arrowbead Brake, High Cals, Overflow/Autoloading, Focused Fury|tags:PvE
+dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,2896038713
+
+
+
+
+
+
+
+
+
+
+//---------------------ENERGY WEAPONS---------------------ENERGY WEAPONS---------------------ENERGY WEAPONS---------------------\\
+
+// Truthteller
+//notes:PvE: Blinding Grenades + Autoloading, must have
+dimwishlist:item=1946491241,3032599245,3300816228
+
+// Funnelweb
+//notes:Skvělá PvE volba v kombinaci s void 3.0, konkrétně **Volatile Rounds** Perky: range, Subsistence/Autoloading + Frenzy/Adrenalin Junkie
+dimwishlist:item=3341893443&perks=1820235745,4104185692
+dimwishlist:item=3341893443&perks=3300816228,4104185692
+dimwishlist:item=3341893443&perks=1820235745,11612903
+dimwishlist:item=3341893443&perks=3300816228,11612903
+
+// Father's Sins
+//notes:PvE godroll: max handling, 7mag (Extended, Appended, Tactical*), Tripple Tap+Focused Fury
+dimwishlist:item=3865728990,1840239774,106909392,3400784728,2896038713,186337601
+
+//---------------------POWER WEAPONS---------------------POWER WEAPONS---------------------POWER WEAPONS---------------------\\
+
+// Cataclysmic
+//notes:PvE: FTTC + Bait and Switch/Focused Fury
+dimwishlist:item=999767358
+dimwishlist:item=999767358&perks=1354429876,3078487919
+dimwishlist:item=999767358&perks=1354429876,2896038713
