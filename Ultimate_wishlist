@@ -227,6 +227,32 @@ dimwishlist:item=1561006927
 
 //---------------------ENERGY WEAPONS---------------------ENERGY WEAPONS---------------------ENERGY WEAPONS---------------------\\
 
+//Uzume RR4
+//notes:Nightfall snipa; imo ne tak dobrá jako ostatní 90RPM; Godroll: Triple Tap + Vorpal/Hi-Impacts
+dimwishlist:item=2065081837&perks=1087426260,3400784728,3038247973
+dimwishlist:item=2065081837&perks=2420895100,3400784728,3038247973
+dimwishlist:item=2065081837&perks=1087426260,3400784728,1546637391
+dimwishlist:item=2065081837&perks=2420895100,3400784728,1546637391
+dimwishlist:item=2065081837&perks=1087426260,3400784728,2213355989
+dimwishlist:item=2065081837&perks=2420895100,3400784728,2213355989
+dimwishlist:item=2065081837&perks=3400784728,3038247973
+dimwishlist:item=2065081837&perks=3400784728,1546637391
+dimwishlist:item=2065081837&perks=3400784728,2213355989
+dimwishlist:item=2065081837&perks=2420895100
+
+//Uzume RR4 (Adept)
+//notes:Nightfall snipa; imo ne tak dobrá jako ostatní 90RPM; Godroll: Triple Tap + Vorpal/Hi-Impacts
+dimwishlist:item=852228780&perks=1087426260,3400784728,3038247973
+dimwishlist:item=852228780&perks=2420895100,3400784728,3038247973
+dimwishlist:item=852228780&perks=1087426260,3400784728,1546637391
+dimwishlist:item=852228780&perks=2420895100,3400784728,1546637391
+dimwishlist:item=852228780&perks=1087426260,3400784728,2213355989
+dimwishlist:item=852228780&perks=2420895100,3400784728,2213355989
+dimwishlist:item=852228780&perks=3400784728,3038247973
+dimwishlist:item=852228780&perks=3400784728,1546637391
+dimwishlist:item=852228780&perks=3400784728,2213355989
+dimwishlist:item=852228780
+
 // Truthteller
 //notes:PvE:PvE meta, Blinding GL jsou OP; Godroll: Blinding Grenades + Autoloading
 dimwishlist:item=1946491241&perks=3300816228,3523296417
