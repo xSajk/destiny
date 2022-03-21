@@ -1,4 +1,4 @@
-title:Pro-gamer wishlist zrozen v Madhousu v2.1.1 - test chattering bone
+title:Pro-gamer wishlist zrozen v Madhousu v2.1.2 - test chattering bone
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
@@ -36,8 +36,8 @@ dimwishlist:item=686951703&perks=2420895100,957782887,3400784728
 
 // Chattering Bone
 //notes: Last Wish pulska, protáhla mě několika day 1 raidy; super perky, super feel
-dimwishlist:item=568515759
 dimwishlist:item=568515759&perks=839105230,1561002382,1168162263,3425386926
+dimwishlist:item=568515759
 
 // Deliverance
 //notes: Jediná kinetická fusiona; nemá nejhorší perky; Bait and Switch - raid perk; taky může být super|tags:pve
