@@ -1,4 +1,4 @@
-title:Pro-gamer wishlist zrozen v Madhousu v2.3.0 - kinetic, energy hotovo
+title:Pro-gamer wishlist zrozen v Madhousu v3.0 - první ofiko verze wishlistu
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
@@ -65,7 +65,7 @@ dimwishlist:item=2171478765&perks=3142289711,3038247973,3824105627
 dimwishlist:item=2171478765
 
 // Fatebringer (Adept)
-//notes: Vault of Glass hand cannon; Asi nejlepší PvE handcannon; Godroll: range + Explosive Payload + Firefly|tags:PvE
+//notes: Vault of Glass hand cannon (master Templar Challenge); Asi nejlepší PvE handcannon; Godroll: range + Explosive Payload + Firefly|tags:PvE
 dimwishlist:item=1216319404&perks=3038247973,4104185692
 dimwishlist:item=1216319404&perks=3038247973,1561789734
 dimwishlist:item=1216319404&perks=3038247973,3824105627
@@ -97,7 +97,7 @@ dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989
 dimwishlist:item=3653573172
 
 // Praedyth's Revenge (Timelost)
-//notes: Vault of Glass snipa; nejlepší burst DPS do kinetiky ve hře; Godroll: handling + 7 v magu + Rewind Rounds + High-Impact Reserves
+//notes: Vault of Glass snipa (master Oracles Challenge); nejlepší burst DPS do kinetiky ve hře; Godroll: handling + 7 v magu + Rewind Rounds + High-Impact Reserves
 dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989
 dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989
 dimwishlist:item=1987769101
@@ -434,7 +434,7 @@ dimwishlist:item=3186018373&perks=3418782618,1683379515
 dimwishlist:item=3186018373
 
 // Vision of Confluence (Adpet)
-//notes: Vault of Glass scoutka; špatnej archetyp, dobrá jen jako anti-barrier scoutka; Godroll: Rewind Rounds + Disruption Break
+//notes: Vault of Glass scoutka (master Confluxes challenge); špatnej archetyp, dobrá jen jako anti-barrier scoutka; Godroll: Rewind Rounds + Disruption Break
 dimwishlist:item=690668916&perks=3418782618,1683379515
 dimwishlist:item=690668916
 
@@ -526,47 +526,56 @@ dimwishlist:item=4277547616
 //---------------------POWER WEAPONS---------------------POWER WEAPONS---------------------POWER WEAPONS---------------------\\
 
 // 7th Seraph SAW
-//notes:
-dimwishlist:item=2582755344,2420895100,3300816228,1771339417
+//notes: Warmind Cell generátor; celkem fajn na kombo Iza + LMG na clean-up champů v GM NF; Godroll: Autoloading + Firing Line
+dimwishlist:item=2582755344,3300816228,1771339417
+dimwishlist:item=2582755344
 
 // Interference VI
-//notes:
-dimwishlist:item=2257180473,3525010810,3301904089,3300816228,2888557110
+//notes: Kdysi jedno z nejlepších GL (po sunsetu Wendiga); Godroll: Spikes + Autoloading + Full Court
+dimwishlist:item=2257180473,3301904089,3300816228,2888557110
+dimwishlist:item=2257180473
 
 // Cataclysmic
-//notes:PvE: FTTC + Bait and Switch/Focused Fury
-dimwishlist:item=999767358
+//notes:Vow of the Disciple LFR; LFR jsou pořád meta na Deeps i bez Particlu; Cataclysmic se vyrovná Reedě, která je těžší na získání (Trials of Osiris); Godroll: FTTC + Bait and Switch/Focused Fury
 dimwishlist:item=999767358&perks=1354429876,3078487919
 dimwishlist:item=999767358&perks=1354429876,2896038713
+dimwishlist:item=999767358
 
 // Half-Truths
-//notes: 
-dimwishlist:item=3257091166&perks=269888150,2726471870,2077819806
-dimwishlist:item=3257091166&perks=269888150,1749209109,2077819806
+//notes: Eager Edge boi
+dimwishlist:item=3257091166&perks=2726471870,2077819806
+dimwishlist:item=3257091166&perks=1749209109,2077819806
+dimwishlist:item=3257091166,2077819806
+dimwishlist:item=3257091166
 
 // The Other Half
-//notes: 
-dimwishlist:item=3257091167&perks=269888150,2077819806,3708227201
-dimwishlist:item=3257091167&perks=269888150,2077819806,1546637391
-dimwishlist:item=3257091167&perks=269888150,2077819806,3913600130
-dimwishlist:item=3257091167&perks=269888150,2077819806,4104185692
+//notes: Eager Edge boi, but cooler
+dimwishlist:item=3257091167&perks=2077819806,3708227201
+dimwishlist:item=3257091167&perks=2077819806,1546637391
+dimwishlist:item=3257091167&perks=2077819806,3913600130
+dimwishlist:item=3257091167&perks=2077819806,4104185692
+dimwishlist:item=3257091167,2077819806
+dimwishlist:item=3257091167
 
 // Falling Guillotine
-//notes: 
+//notes: Kdysi nemocnější meč ve hře - pořád je cool and all, ale není to co to bývalo; Godroll: Jagged Edge + Swordmaster's + Relentless Strikes + Whirlwind Blade/Surrounded
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3708227201
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=614426548
 
 // Palmyra-B
-//notes: 
-dimwishlist:item=3489657138,3525010810,3796465595,3300816228,3194351027
-dimwishlist:item=3489657138,3525010810,3796465595,3300816228,3927722942
+//notes: Dá se craftit, jeden z nejlepších RL ve hře; má intrinsic tracking; Godroll: Impact Casing + Autoloading + Explosive Light/Lasting Impression
+dimwishlist:item=3489657138,3300816228,3194351027
+dimwishlist:item=3489657138,3300816228,3927722942
+dimwishlist:item=3489657138
 
 // Royal Entry
-//notes: 
-dimwishlist:item=2448907086,3796465595,3300816228,3927722942
+//notes: Strike RL; intrinsic tracking; Godroll: Impact Casing + Autoloading + Lasting Impression
+dimwishlist:item=2448907086,3300816228,3927722942
+dimwishlist:item=2448907086
 
 // Hezen Vengence
-//notes: 
+//notes: Vault of Glass rocket; není nejlepší, ale může rollovat s Overflow - s tím de dají dělat psí kusy; Godroll: Impact Casing + Autoloading/Overflow/Tracking + Demo/Lasting/Vorpal
 dimwishlist:item=4050645223&perks=3796465595,3643424744,3523296417
 dimwishlist:item=4050645223&perks=2985827016,3643424744,3523296417
 dimwishlist:item=4050645223&perks=3796465595,3300816228,3523296417
@@ -585,9 +594,10 @@ dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942
 dimwishlist:item=4050645223&perks=2985827016,3300816228,3927722942
 dimwishlist:item=4050645223&perks=3796465595,3977735242,3927722942
 dimwishlist:item=4050645223&perks=2985827016,3977735242,3927722942
+dimwishlist:item=4050645223
 
 // Hezen Vengence (Timelost)
-//notes: 
+//notes: Vault of Glass rocket (master Gatekeepers challenge); není nejlepší, ale může rollovat s Overflow - s tím de dají dělat psí kusy; Godroll: Impact Casing + Autoloading/Overflow/Tracking + Demo/Lasting/Vorpal
 dimwishlist:item=1921159786&perks=3796465595,3643424744,3523296417
 dimwishlist:item=1921159786&perks=2985827016,3643424744,3523296417
 dimwishlist:item=1921159786&perks=3796465595,3300816228,3523296417
@@ -606,9 +616,10 @@ dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942
 dimwishlist:item=1921159786&perks=2985827016,3300816228,3927722942
 dimwishlist:item=1921159786&perks=3796465595,3977735242,3927722942
 dimwishlist:item=1921159786&perks=2985827016,3977735242,3927722942
+dimwishlist:item=1921159786
 
 // Reed's Regret
-//notes: 
+//notes: Trial of Osiris LFR, top tier DPS volba; alternativa - Cataclysmic; Godroll: Triple Tap + Firing Line 
 dimwishlist:item=1399243961&perks=2680121939,3400784728,1546637391
 dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391
 dimwishlist:item=1399243961&perks=1687452232,3400784728,1546637391
@@ -633,9 +644,11 @@ dimwishlist:item=1399243961&perks=2680121939,2284787283,1771339417
 dimwishlist:item=1399243961&perks=1483536627,2284787283,1771339417
 dimwishlist:item=1399243961&perks=1687452232,2284787283,1771339417
 dimwishlist:item=1399243961&perks=689005463,2284787283,1771339417
+dimwishlist:item=1399243961&perks=3400784728,1771339417
+dimwishlist:item=1399243961
 
 // Reed's Regret (Adept)
-//notes: 
+//notes: Trial of Osiris LFR, top tier DPS volba; alternativa - Cataclysmic; Godroll: Triple Tap + Firing Line
 dimwishlist:item=2475355656&perks=2680121939,3400784728,1546637391
 dimwishlist:item=2475355656&perks=1483536627,3400784728,1546637391
 dimwishlist:item=2475355656&perks=1687452232,3400784728,1546637391
@@ -660,24 +673,32 @@ dimwishlist:item=2475355656&perks=2680121939,2284787283,1771339417
 dimwishlist:item=2475355656&perks=1483536627,2284787283,1771339417
 dimwishlist:item=2475355656&perks=1687452232,2284787283,1771339417
 dimwishlist:item=2475355656&perks=689005463,2284787283,1771339417
+dimwishlist:item=2475355656&perks=3400784728,1771339417
+dimwishlist:item=2475355656
 
 // Threaded Needle
-//notes: 
-dimwishlist:item=3075224551,1840239774,1687452232,3300816228,1546637391
-dimwishlist:item=3075224551,1840239774,689005463,247725512,1546637391
-dimwishlist:item=3075224551,1840239774,689005463,2284787283,1546637391
-dimwishlist:item=3075224551,1840239774,689005463,2869569095,1546637391
+//notes: LFR ideální na champy; Godroll: Liquid Coils + Autoloading + Vorpal
+dimwishlist:item=3075224551&perks=689005463,3300816228,1546637391
+dimwishlist:item=3075224551&perks=1687452232,3300816228,1546637391
+dimwishlist:item=3075224551&perks=689005463,2284787283,1546637391
+dimwishlist:item=3075224551&perks=1687452232,2284787283,1546637391
+dimwishlist:item=3075224551&perks=3300816228,1546637391
+dimwishlist:item=3075224551&perks=2284787283,1546637391
+dimwishlist:item=3075224551
 
 // Hero of Ages
-//notes: 
-dimwishlist:item=2139640995,3666208348,269888150,3523296417,2396489472
+//notes: Super fun meč, insane adclear, na deeps nic moc; Godroll: Demo + Chain Reaction
+dimwishlist:item=2139640995&perks=3666208348,269888150,3523296417,2396489472
+dimwishlist:item=2139640995&perks=3523296417,2396489472
+dimwishlist:item=2139640995
 
 // Red Herring
-//notes: 
+//notes: Rocket s největším DMG outputem; Godroll: Impact/Alloy Casing + Field Prep + Lastin Impression (Field Prep zvedá reload při crouchi!)
 dimwishlist:item=3175851496,3525010810,3796465595,2869569095,3927722942
+dimwishlist:item=3175851496
 
 // Corrective Measure
-//notes: 
+//notes: Vault of Glass LMG, jedno z nejlepších v současný době; Skvělý na grenade buildy i general ad clear; Godroll: Subs/Demo + Firefly
 dimwishlist:item=471518543&perks=1820235745,11612903
 dimwishlist:item=471518543&perks=3418782618,11612903
 dimwishlist:item=471518543&perks=3523296417,11612903
@@ -690,9 +711,10 @@ dimwishlist:item=471518543&perks=3523296417,4049631843
 dimwishlist:item=471518543&perks=1820235745,3824105627
 dimwishlist:item=471518543&perks=3418782618,3824105627
 dimwishlist:item=471518543&perks=3523296417,3824105627
+dimwishlist:item=471518543
 
 // Corrective Measure (Timelost)
-//notes: 
+//notes: Vault of Glass LMG (master boss challenge), jedno z nejlepších v současný době; Skvělý na grenade buildy i general ad clear; Godroll: Subs/Demo + Firefly
 dimwishlist:item=3796510434&perks=1820235745,11612903
 dimwishlist:item=3796510434&perks=3418782618,11612903
 dimwishlist:item=3796510434&perks=3523296417,11612903
@@ -705,19 +727,22 @@ dimwishlist:item=3796510434&perks=3523296417,4049631843
 dimwishlist:item=3796510434&perks=1820235745,3824105627
 dimwishlist:item=3796510434&perks=3418782618,3824105627
 dimwishlist:item=3796510434&perks=3523296417,3824105627
+dimwishlist:item=3796510434
 
 // Commemoration
-//notes: 
+//notes: Deep Stone Crypt LMG; horší než Corrective Measure; Godroll: Reconstruction + Dragonfly/Rampage
 dimwishlist:item=4230965989,1840239774,2420895100,1523832109,3425386926
 dimwishlist:item=4230965989,1840239774,2420895100,1523832109,2848615171
 dimwishlist:item=4230965989,1840239774,2420895100,2779035018,2848615171
+dimwishlist:item=4230965989
 
 //Typhon GL5
-//notes: 
+//notes: World drop GL; i když GL teď nejsou vůbec dobrý, tak tohle GLko může mít Explosive Light. Až dostanou buff, tak to bude určitě dobrý na Deeps; Godroll: Spike Grenades + Demo + Explosive Light
 dimwishlist:item=3568377122,3301904089,3523296417,3194351027
+dimwishlist:item=3568377122
 
 // Avalanche
 //notes: Dawning LMG; ideální na adclear
-dimwishlist:item=66875353
 dimwishlist:item=66875353&perks=2420895100,3300816228,2848615171
 dimwishlist:item=66875353&perks=2420895100,1168162263,2848615171
+dimwishlist:item=66875353
