@@ -1,4 +1,4 @@
-title:Pro-gamer wishlist zrozen v Madhousu v1.3 - kinetic+energy weapons
+title:Pro-gamer wishlist zrozen v Madhousu v1.3 - weapon perks
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
@@ -392,9 +392,12 @@ dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 
 // Palmyra-B
 //notes: 
+dimwishlist:item=3489657138,3525010810,3796465595,3300816228,3194351027
+dimwishlist:item=3489657138,3525010810,3796465595,3300816228,3927722942
 
 // Royal Entry
 //notes: 
+dimwishlist:item=2448907086,3796465595,3300816228,3927722942
 
 // Hezen Vengence
 //notes: 
@@ -494,6 +497,10 @@ dimwishlist:item=2475355656&perks=689005463,2284787283,1771339417
 
 // Threaded Needle
 //notes: 
+dimwishlist:item=3075224551,1840239774,1687452232,3300816228,1546637391
+dimwishlist:item=3075224551,1840239774,689005463,247725512,1546637391
+dimwishlist:item=3075224551,1840239774,689005463,2284787283,1546637391
+dimwishlist:item=3075224551,1840239774,689005463,2869569095,1546637391
 
 // Hero of Ages
 //notes: 
@@ -501,6 +508,7 @@ dimwishlist:item=2139640995,3666208348,269888150,3523296417,2396489472
 
 // Red Herring
 //notes: 
+dimwishlist:item=3175851496,3525010810,3796465595,2869569095,3927722942
 
 // Corrective Measure
 //notes: 
@@ -534,6 +542,9 @@ dimwishlist:item=3796510434&perks=3523296417,3824105627
 
 // Commemoration
 //notes: 
+dimwishlist:item=4230965989,1840239774,2420895100,1523832109,3425386926
+dimwishlist:item=4230965989,1840239774,2420895100,1523832109,2848615171
+dimwishlist:item=4230965989,1840239774,2420895100,2779035018,2848615171
 
 //Typhon GL5
 //notes: 
