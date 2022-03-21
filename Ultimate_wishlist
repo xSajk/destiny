@@ -1,4 +1,4 @@
-title:Pro-gamer wishlist zrozen v Madhousu v2.2.0 - Kinetic Weapons
+title:Pro-gamer wishlist zrozen v Madhousu v2.2.1 - eyasluna test
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
@@ -25,11 +25,11 @@ dimwishlist:item=304659313&perks=3301904089,3161816588,3523296417
 
 // Submission
 //notes:Vow of the DIsciple SMG, 900 RPM, má skvělej feel; Ekvivalent Extra Randyho s vyšším RPM/Escape Velocity; Godroll: Overflow/Subs + DMG perk
-dimwishlist:item=3886416794
 dimwishlist:item=3886416794&perks=1820235745,4104185692
 dimwishlist:item=3886416794&perks=3643424744,4104185692
 dimwishlist:item=3886416794&perks=1820235745,3523296417
 dimwishlist:item=3886416794&perks=3643424744,3523296417
+dimwishlist:item=3886416794
 
 // Supremacy
 //notes:Last Wish snipa, někdejší go-to; burst DPS volba; Godroll: 7mag + Snapshot + Tripple Tap
@@ -110,7 +110,6 @@ dimwishlist:item=4067556514&perks=2420895100,3643424744,1771339417
 
 //Eyasluna
 //notes: Grasp of Avarice hand cannon; rolluje s headstonem/demo, takže je perfektní na granát buildy; Godroll: range + Outlaw + Demo/Headstone
-dimwishlist:item=235827225
 dimwishlist:item=235827225&perks=1168162263,3523296417
 dimwishlist:item=235827225&perks=247725512,3523296417
 dimwishlist:item=235827225&perks=3108830275,3523296417
@@ -123,6 +122,7 @@ dimwishlist:item=235827225&perks=1168162263,1015611457
 dimwishlist:item=235827225&perks=247725512,1015611457
 dimwishlist:item=235827225&perks=3108830275,1015611457
 dimwishlist:item=235827225&perks=3124871000,1015611457
+dimwishlist:item=235827225
 
 // Extraordinary Rendition
 //notes: Super SMG, ale chce to něco na reload, Flared Magwell/Reload MW; Godroll: Overflow + Frenzy
