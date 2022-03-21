@@ -1,4 +1,4 @@
-title:Pro-gamer wishlist zrozen v Madhousu v2.0 - weapon perks
+title:Pro-gamer wishlist zrozen v Madhousu v2.1 - weapon perks
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
@@ -31,12 +31,12 @@ dimwishlist:item=3886416794&perks=3643424744,3523296417
 // Supremacy
 //notes:PvE: 7mag, Snapshot + Tripple Tap
 dimwishlist:item=686951703
-dimwishlist:item=686951703,1087426260,957782887,3400784728
-dimwishlist:item=686951703,2420895100,957782887,3400784728
+dimwishlist:item=686951703&perks=1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=2420895100,957782887,3400784728
 
 // Chattering Bone
 //notes: 
-dimwishlist:item=568515759,839105230,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=839105230,1561002382,1168162263,3425386926
 
 // Deliverance
 //notes: Jediná kinetická fusiona; nemá nejhorší perky; Bait and Switch - raid perk; taky může být super|tags:pve
