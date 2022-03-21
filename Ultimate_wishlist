@@ -1,4 +1,4 @@
-title:Pro-gamer wishlist zrozen v Madhousu v1.1
+title:Pro-gamer wishlist zrozen v Madhousu v1.2
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
@@ -72,7 +72,6 @@ dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294,1863
 dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294,186337601
 dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294,2357520979
 dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294,2357520979
-
 
 // Piece of Mind
 //notes: Super kinetická pulska; Godroll: Arrowbead Brake, High Cals, Overflow/Autoloading, Focused Fury|tags:PvE
@@ -182,18 +181,34 @@ dimwishlist:item=3865728990,1840239774,106909392,3400784728,2896038713,186337601
 
 // Plug ONE.1
 //notes: 
+dimwishlist:item=1289000550&perks=1687452232,2779035018,1427256713
+dimwishlist:item=1289000550&perks=1687452232,671806388,1427256713
 
 // Plug ONE.1 (Adept)
 //notes: 
+dimwishlist:item=534775659&perks=1687452232,2779035018,1427256713
+dimwishlist:item=534775659&perks=1687452232,671806388,1427256713
 
 // 7th Seraph VY-7
 //notes: 
 
 // Palindrome
 //notes: 
+dimwishlist:item=432476743&perks=1168162263,3425386926
+dimwishlist:item=432476743&perks=3643424744,3425386926
+dimwishlist:item=432476743&perks=3124871000,3425386926
+dimwishlist:item=432476743&perks=1168162263,4049631843
+dimwishlist:item=432476743&perks=3643424744,4049631843
+dimwishlist:item=432476743&perks=3124871000,4049631843
 
 // Palindrome (Adept)
 //notes: 
+dimwishlist:item=1481892490&perks=1168162263,3425386926
+dimwishlist:item=1481892490&perks=3643424744,3425386926
+dimwishlist:item=1481892490&perks=3124871000,3425386926
+dimwishlist:item=1481892490&perks=1168162263,4049631843
+dimwishlist:item=1481892490&perks=3643424744,4049631843
+dimwishlist:item=1481892490&perks=3124871000,4049631843
 
 // Vouchsafe
 //notes: 
@@ -375,5 +390,6 @@ dimwishlist:item=3796510434&perks=3523296417,3824105627
 // Commemoration
 //notes: 
 
-//Typhoon GL5
+//Typhon GL5
 //notes: 
+dimwishlist:item=3568377122,3301904089,3523296417,3194351027
