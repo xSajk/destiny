@@ -1,4 +1,4 @@
-title:Pro-gamer wishlist zrozen v Madhousu v2.1.3 - test chattering bone
+title:Pro-gamer wishlist zrozen v Madhousu v2.1.4 - test vouchsafe
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
@@ -85,8 +85,8 @@ dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,2896038713
 
 // Succession
 //notes: Nejlepší PvE Agressive snipa, chceš mít 5 v magu. One shotuje kyklopy a portály v GoS - must have na lowman; Godroll: Fluted Barrel, Extended Mag, Reconstruction, Recombination, Handling MW
-dimwishlist:item=2990047042
-dimwishlist:item=2990047042,2420895100,1523832109,1546637391
+dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391
+dimwishlist:item=2990047042&perks=2420895100,1523832109,957782887
 
 // Praedyth's Revenge
 //notes: 
@@ -120,13 +120,23 @@ dimwishlist:item=235827225&perks=3124871000,1015611457
 
 // Extraordinary Rendition
 //notes: 
-dimwishlist:item=1097616550,3643424744,4104185692
-dimwishlist:item=1097616550,1820235745,3425386926
+dimwishlist:item=1097616550&perks=3643424744,3425386926
+dimwishlist:item=1097616550&perks=1820235745,3425386926
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+dimwishlist:item=1097616550&perks=1820235745,4104185692
+
+
+
 
 // Long Shadow
 //notes: 
-dimwishlist:item=3745990145,1087426260,957782887,3400784728
-dimwishlist:item=3745990145,2420895100,247725512,3400784728
+dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728
+dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728
+dimwishlist:item=3745990145&perks=2420895100,957782887,3400784728
+dimwishlist:item=3745990145&perks=1087426260,957782887,3400784728
+
+
+
 
 // Nightwatch
 //notes: 
@@ -134,7 +144,18 @@ dimwishlist:item=3504336176,247725512,3038247973
 
 // Sacred Provenance
 //notes: 
-dimwishlist:item=2408405461,839105230,1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457
+dimwishlist:item=2408405461&perks=679225683,247725512,1015611457
+dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=1561002382,1168162263,1015611457
+dimwishlist:item=2408405461&perks=679225683,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1885400500,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1561002382,3124871000,1015611457
+dimwishlist:item=2408405461&perks=679225683,3124871000,1015611457
+dimwishlist:item=2408405461&perks=1885400500,3124871000,1015611457
+
+
+
 
 // The Last Breath
 //notes: 
@@ -157,30 +178,31 @@ dimwishlist:item=507038823&perks=1885400500,1820235745,11612903
 
 // Judgement
 //notes:
-dimwishlist:item=1476654960,3142289711,3523296417,1954620775
-dimwishlist:item=1476654960,3142289711,3523296417,1774574192
+dimwishlist:item=1476654960&perks=3523296417,1954620775
+dimwishlist:item=1476654960&perks=3523296417,1774574192
+dimwishlist:item=1476654960&perks=3523296417,11612903
 
 // Hung Jury
-dimwishlist:item=4281371574,839105230,3142289711,247725512,3038247973
+dimwishlist:item=4281371574,247725512,3038247973
 
 // Hung Jury (Adept)
-dimwishlist:item=681067419,839105230,3142289711,247725512,3038247973
+dimwishlist:item=681067419,247725512,3038247973
 
 // Fortissimo-11
 //notes:
-dimwishlist:item=2821430069,1840239774,791862061,1354429876,2896038713
+dimwishlist:item=2821430069&perks=791862061,1354429876,2896038713
 
 // Ragnhild-D
 //notes:
-dimwishlist:item=4225322581,1047830412,3142289711,3300816228,2679249093,186337601
+dimwishlist:item=4225322581,1047830412,3300816228,2679249093
 
 // Whispering Slab
 //notes: 
-dimwishlist:item=211938782,2801223209,16392701,201365942,1546637391
+dimwishlist:item=211938782,201365942,1546637391
 
 // 7th Seraph Officer Revolver
 //notes: 
-dimwishlist:item=3037520408,202670084,3230963543,972757866,1954620775
+dimwishlist:item=3037520408,3230963543,972757866,1954620775
 
 // 7th Seraph Carabine
 //notes: 
@@ -195,7 +217,9 @@ dimwishlist:item=1561006927&perks=1354429876,1546637391
 
 // Truthteller
 //notes:PvE: Blinding Grenades + Autoloading, must have
-dimwishlist:item=1946491241,3032599245,3300816228
+dimwishlist:item=1946491241&perks=3300816228,3523296417
+dimwishlist:item=1946491241&perks=3300816228,1683379515
+dimwishlist:item=1946491241&perks=3300816228,3871884143
 
 // Funnelweb
 //notes:Skvělá PvE volba v kombinaci s void 3.0, konkrétně Volatile Rounds Perky: range, Subsistence/Autoloading + Frenzy/Adrenalin Junkie
@@ -360,7 +384,8 @@ dimwishlist:item=1481892490&perks=3643424744,4049631843
 dimwishlist:item=1481892490&perks=3124871000,4049631843
 
 // Vouchsafe
-//notes: 
+//notes:
+dimwishlist:item=3242168339
 dimwishlist:item=3242168339,1840239774,3142289711,247725512,3038247973
 dimwishlist:item=3242168339,1840239774,3142289711,247725512,1546637391
 
