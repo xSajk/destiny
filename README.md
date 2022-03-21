@@ -5,7 +5,7 @@ public destiny 2 files
 
 1. Otevřít DIM https://app.destinyitemmanager.com/
 2. Jít do Nastavení -> Wishlist
-3. Pod Optionally, supply the URL(s) for a wishlist vložit: https://raw.githubusercontent.com/xSajk/destiny/dim/Ultimate_wishlist_by_Sajk%26Mara
+3. Pod ***Optionally, supply the URL(s) for a wishlist*** vložit: https://raw.githubusercontent.com/xSajk/destiny/dim/Ultimate_wishlist
 4. Kliknout na Update wishlist source
 
 Wishlist se neaktualizuje sám, stačí znovu kliknout na ***Update wishlist source***.
