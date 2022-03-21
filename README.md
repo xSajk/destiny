@@ -8,8 +8,8 @@ public destiny 2 files
 3. Pod Optionally, supply the URL(s) for a wishlist vložit: https://raw.githubusercontent.com/xSajk/destiny/dim/Ultimate_wishlist_by_Sajk%26Mara
 4. Kliknout na Update wishlist source
 
-Wishlist se neaktualizuje sám, stačí znovu kliknout na **Update wishlist source**.
-Pokud by to nezabralo, tak **Clear wishlist** a znovu vložit adresu wishlistu (viz. bod č. 3)
+Wishlist se neaktualizuje sám, stačí znovu kliknout na ***Update wishlist source***.
+Pokud by to nezabralo, tak ***Clear wishlist*** a znovu vložit adresu wishlistu (viz. bod č. 3)
 
 Ne každá zbraň se nachází ve wishlistu, rozhodl jsem se pouze pro zbraně, které stojí za to mít. 
 Tzn. když nemá wishlist notes tak pravděpodobně není dobrá.
