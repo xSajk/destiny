@@ -1,4 +1,4 @@
-title:Pro-gamer wishlist zrozen v Madhousu v1.0
+title:Pro-gamer wishlist zrozen v Madhousu v1.1
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
@@ -55,6 +55,16 @@ dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692,26
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1561789734,2697220197
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,3824105627,2697220197
 
+// Fatebringer (Adept)
+//notes: Asi nejlepší PvE handcannon; Godroll: range+Explosive Payload+Firefly|tags:PvE
+dimwishlist:item=1216319404,3038247973,3824105627
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,4104185692,684616255
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734,684616255
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,3824105627,684616255
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,4104185692,2697220197
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734,2697220197
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,3824105627,2697220197
+
 // Heritage
 //notes: Nejlepší PvE Slug Shotty, pořád viable na hotswap; Godroll: handling+Assault Mag+Reconstruction+Recombination|tags:PvE
 dimwishlist:item=4248569242,791862061,1523832109,469285294
@@ -73,11 +83,48 @@ dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,2896038713
 dimwishlist:item=2990047042
 dimwishlist:item=2990047042,2420895100,1523832109,1546637391
 
+// Praedyth's Revenge
+//notes: 
+dimwishlist:item=3653573172&perks=2420895100,3418782618,2213355989
+dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989
 
+// Praedyth's Revenge (Timelost)
+//notes: 
+dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989
+dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989
 
+// Thoughtless
+//notes: 
 
+//Eyasluna
+//notes: 
 
+// Chattering Bone
+//notes: 
 
+// Extraordinary Rendition
+//notes: 
+
+// Long Shadow
+//notes: 
+
+// Nightwatch
+//notes: 
+
+// Sacred Provenance
+//notes: 
+
+// The Last Breath
+//notes: 
+
+// Whispering Slab
+//notes: 
+
+// 7th Seraph Officer Revolver
+//notes: 
+
+// 7th Seraph Carabine
+//notes: 
 
 
 //---------------------ENERGY WEAPONS---------------------ENERGY WEAPONS---------------------ENERGY WEAPONS---------------------\\
@@ -97,6 +144,76 @@ dimwishlist:item=3341893443&perks=3300816228,11612903
 //notes:PvE godroll: max handling, 7mag (Extended, Appended, Tactical*), Tripple Tap+Focused Fury
 dimwishlist:item=3865728990,1840239774,106909392,3400784728,2896038713,186337601
 
+// Nation of Beasts
+//notes: 
+
+// Cartesian Coordinate
+//notes: 
+
+// Under Your Skin
+//notes: 
+
+// Insidious
+//notes: 
+
+// 7th Seraph SI-2
+//notes: 
+
+// Arc Logic
+//notes: 
+
+// Deafening Whisper
+//notes: 
+
+// Forbearance
+//notes: 
+
+// Empty Vessel
+//notes: 
+
+// First In, Last Out
+//notes: 
+
+// Ikelos SMG
+//notes: 
+
+// Ikelos Sniper
+//notes: 
+
+// Plug ONE.1
+//notes: 
+
+// Plug ONE.1 (Adept)
+//notes: 
+
+// 7th Seraph VY-7
+//notes: 
+
+// Palindrome
+//notes: 
+
+// Palindrome (Adept)
+//notes: 
+
+// Vouchsafe
+//notes: 
+
+// Vision of Confluence
+//notes: 
+dimwishlist:item=3186018373,3418782618,1683379515
+dimwishlist:item=3186018373&perks=3418782618,1683379515
+
+// Vision of Confluence (Adpet)
+//notes: 
+dimwishlist:item=690668916,3418782618,1683379515
+
+// Fugue-55
+//notes: 
+
+// Explosive Personality
+//notes: 
+
+
 //---------------------POWER WEAPONS---------------------POWER WEAPONS---------------------POWER WEAPONS---------------------\\
 
 // Cataclysmic
@@ -104,3 +221,159 @@ dimwishlist:item=3865728990,1840239774,106909392,3400784728,2896038713,186337601
 dimwishlist:item=999767358
 dimwishlist:item=999767358&perks=1354429876,3078487919
 dimwishlist:item=999767358&perks=1354429876,2896038713
+
+// Half-Truths
+//notes: 
+
+// The Other Half
+//notes: 
+
+// Falling Guillotine
+//notes: 
+
+// Palmyra-B
+//notes: 
+
+// Royal Entry
+//notes: 
+
+// Hezen Vengence
+//notes: 
+dimwishlist:item=4050645223&perks=3796465595,3643424744,3523296417
+dimwishlist:item=4050645223&perks=2985827016,3643424744,3523296417
+dimwishlist:item=4050645223&perks=3796465595,3300816228,3523296417
+dimwishlist:item=4050645223&perks=2985827016,3300816228,3523296417
+dimwishlist:item=4050645223&perks=3796465595,3977735242,3523296417
+dimwishlist:item=4050645223&perks=2985827016,3977735242,3523296417
+dimwishlist:item=4050645223&perks=3796465595,3643424744,1546637391
+dimwishlist:item=4050645223&perks=2985827016,3643424744,1546637391
+dimwishlist:item=4050645223&perks=3796465595,3300816228,1546637391
+dimwishlist:item=4050645223&perks=2985827016,3300816228,1546637391
+dimwishlist:item=4050645223&perks=3796465595,3977735242,1546637391
+dimwishlist:item=4050645223&perks=2985827016,3977735242,1546637391
+dimwishlist:item=4050645223&perks=3796465595,3643424744,3927722942
+dimwishlist:item=4050645223&perks=2985827016,3643424744,3927722942
+dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942
+dimwishlist:item=4050645223&perks=2985827016,3300816228,3927722942
+dimwishlist:item=4050645223&perks=3796465595,3977735242,3927722942
+dimwishlist:item=4050645223&perks=2985827016,3977735242,3927722942
+
+// Hezen Vengence (Timelost)
+//notes: 
+dimwishlist:item=1921159786&perks=3796465595,3643424744,3523296417
+dimwishlist:item=1921159786&perks=2985827016,3643424744,3523296417
+dimwishlist:item=1921159786&perks=3796465595,3300816228,3523296417
+dimwishlist:item=1921159786&perks=2985827016,3300816228,3523296417
+dimwishlist:item=1921159786&perks=3796465595,3977735242,3523296417
+dimwishlist:item=1921159786&perks=2985827016,3977735242,3523296417
+dimwishlist:item=1921159786&perks=3796465595,3643424744,1546637391
+dimwishlist:item=1921159786&perks=2985827016,3643424744,1546637391
+dimwishlist:item=1921159786&perks=3796465595,3300816228,1546637391
+dimwishlist:item=1921159786&perks=2985827016,3300816228,1546637391
+dimwishlist:item=1921159786&perks=3796465595,3977735242,1546637391
+dimwishlist:item=1921159786&perks=2985827016,3977735242,1546637391
+dimwishlist:item=1921159786&perks=3796465595,3643424744,3927722942
+dimwishlist:item=1921159786&perks=2985827016,3643424744,3927722942
+dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942
+dimwishlist:item=1921159786&perks=2985827016,3300816228,3927722942
+dimwishlist:item=1921159786&perks=3796465595,3977735242,3927722942
+dimwishlist:item=1921159786&perks=2985827016,3977735242,3927722942
+
+// Reed's Regret
+//notes: 
+dimwishlist:item=1399243961&perks=2680121939,3400784728,1546637391
+dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391
+dimwishlist:item=1399243961&perks=1687452232,3400784728,1546637391
+dimwishlist:item=1399243961&perks=689005463,3400784728,1546637391
+dimwishlist:item=1399243961&perks=2680121939,3300816228,1546637391
+dimwishlist:item=1399243961&perks=1483536627,3300816228,1546637391
+dimwishlist:item=1399243961&perks=1687452232,3300816228,1546637391
+dimwishlist:item=1399243961&perks=689005463,3300816228,1546637391
+dimwishlist:item=1399243961&perks=2680121939,2284787283,1546637391
+dimwishlist:item=1399243961&perks=1483536627,2284787283,1546637391
+dimwishlist:item=1399243961&perks=1687452232,2284787283,1546637391
+dimwishlist:item=1399243961&perks=689005463,2284787283,1546637391
+dimwishlist:item=1399243961&perks=2680121939,3400784728,1771339417
+dimwishlist:item=1399243961&perks=1483536627,3400784728,1771339417
+dimwishlist:item=1399243961&perks=1687452232,3400784728,1771339417
+dimwishlist:item=1399243961&perks=689005463,3400784728,1771339417
+dimwishlist:item=1399243961&perks=2680121939,3300816228,1771339417
+dimwishlist:item=1399243961&perks=1483536627,3300816228,1771339417
+dimwishlist:item=1399243961&perks=1687452232,3300816228,1771339417
+dimwishlist:item=1399243961&perks=689005463,3300816228,1771339417
+dimwishlist:item=1399243961&perks=2680121939,2284787283,1771339417
+dimwishlist:item=1399243961&perks=1483536627,2284787283,1771339417
+dimwishlist:item=1399243961&perks=1687452232,2284787283,1771339417
+dimwishlist:item=1399243961&perks=689005463,2284787283,1771339417
+
+// Reed's Regret (Adept)
+//notes: 
+dimwishlist:item=2475355656&perks=2680121939,3400784728,1546637391
+dimwishlist:item=2475355656&perks=1483536627,3400784728,1546637391
+dimwishlist:item=2475355656&perks=1687452232,3400784728,1546637391
+dimwishlist:item=2475355656&perks=689005463,3400784728,1546637391
+dimwishlist:item=2475355656&perks=2680121939,3300816228,1546637391
+dimwishlist:item=2475355656&perks=1483536627,3300816228,1546637391
+dimwishlist:item=2475355656&perks=1687452232,3300816228,1546637391
+dimwishlist:item=2475355656&perks=689005463,3300816228,1546637391
+dimwishlist:item=2475355656&perks=2680121939,2284787283,1546637391
+dimwishlist:item=2475355656&perks=1483536627,2284787283,1546637391
+dimwishlist:item=2475355656&perks=1687452232,2284787283,1546637391
+dimwishlist:item=2475355656&perks=689005463,2284787283,1546637391
+dimwishlist:item=2475355656&perks=2680121939,3400784728,1771339417
+dimwishlist:item=2475355656&perks=1483536627,3400784728,1771339417
+dimwishlist:item=2475355656&perks=1687452232,3400784728,1771339417
+dimwishlist:item=2475355656&perks=689005463,3400784728,1771339417
+dimwishlist:item=2475355656&perks=2680121939,3300816228,1771339417
+dimwishlist:item=2475355656&perks=1483536627,3300816228,1771339417
+dimwishlist:item=2475355656&perks=1687452232,3300816228,1771339417
+dimwishlist:item=2475355656&perks=689005463,3300816228,1771339417
+dimwishlist:item=2475355656&perks=2680121939,2284787283,1771339417
+dimwishlist:item=2475355656&perks=1483536627,2284787283,1771339417
+dimwishlist:item=2475355656&perks=1687452232,2284787283,1771339417
+dimwishlist:item=2475355656&perks=689005463,2284787283,1771339417
+
+// Threaded Needle
+//notes: 
+
+// Hero of Ages
+//notes: 
+
+// Red Herring
+//notes: 
+
+// Corrective Measure
+//notes: 
+dimwishlist:item=471518543&perks=1820235745,11612903
+dimwishlist:item=471518543&perks=3418782618,11612903
+dimwishlist:item=471518543&perks=3523296417,11612903
+dimwishlist:item=471518543&perks=1820235745,1561789734
+dimwishlist:item=471518543&perks=3418782618,1561789734
+dimwishlist:item=471518543&perks=3523296417,1561789734
+dimwishlist:item=471518543&perks=1820235745,4049631843
+dimwishlist:item=471518543&perks=3418782618,4049631843
+dimwishlist:item=471518543&perks=3523296417,4049631843
+dimwishlist:item=471518543&perks=1820235745,3824105627
+dimwishlist:item=471518543&perks=3418782618,3824105627
+dimwishlist:item=471518543&perks=3523296417,3824105627
+
+// Corrective Measure (Timelost)
+//notes: 
+dimwishlist:item=3796510434&perks=1820235745,11612903
+dimwishlist:item=3796510434&perks=3418782618,11612903
+dimwishlist:item=3796510434&perks=3523296417,11612903
+dimwishlist:item=3796510434&perks=1820235745,1561789734
+dimwishlist:item=3796510434&perks=3418782618,1561789734
+dimwishlist:item=3796510434&perks=3523296417,1561789734
+dimwishlist:item=3796510434&perks=1820235745,4049631843
+dimwishlist:item=3796510434&perks=3418782618,4049631843
+dimwishlist:item=3796510434&perks=3523296417,4049631843
+dimwishlist:item=3796510434&perks=1820235745,3824105627
+dimwishlist:item=3796510434&perks=3418782618,3824105627
+dimwishlist:item=3796510434&perks=3523296417,3824105627
+
+// Commemoration
+//notes: 
+
+//Typhoon GL5
+//notes: 
