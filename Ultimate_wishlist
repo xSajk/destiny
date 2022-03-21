@@ -1,10 +1,11 @@
-title:Pro-gamer wishlist zrozen v Madhousu v2.1.8 - test vouchsafe
+title:Pro-gamer wishlist zrozen v Madhousu v2.2.0 - Kinetic Weapons
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
 
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
 
 // Pardon Our Dust
-//notes:Kinetický GL, blindingy jsou OP. Určeno na občasné vystřelení/blindnutí mobek.|tags:pve
+//notes:Kinetický GL, blindingy jsou OP. Určeno na občasné vystřelení/blindnutí mobek. Godroll: velocity + Blinding+Autoloading|tags:pve
+dimwishlist:item=3849810018
 dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156
 dimwishlist:item=3849810018&perks=3301904089,3300816228,960810156
 dimwishlist:item=3849810018&perks=3032599245,3300816228,1546637391
@@ -13,7 +14,8 @@ dimwishlist:item=3849810018&perks=3032599245,3300816228,3523296417
 dimwishlist:item=3849810018&perks=3301904089,3300816228,3523296417
 
 // Ignition Code
-//notes:Kinetický GL, blindingy jsou OP. Určeno na spamování blindingů všude kolem.
+//notes:Kinetický GL, blindingy jsou OP; Určeno na spamování blindingů všude kolem. Godroll: Blinding/Spike + Slideshot
+dimwishlist:item=304659313
 dimwishlist:item=304659313&perks=3032599245,3161816588,960810156
 dimwishlist:item=304659313&perks=3301904089,3161816588,960810156
 dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391
@@ -22,26 +24,27 @@ dimwishlist:item=304659313&perks=3032599245,3161816588,3523296417
 dimwishlist:item=304659313&perks=3301904089,3161816588,3523296417
 
 // Submission
-//notes:Raidový SMG, 900 RPM, trochu kope, ale má skvělej feel. Ekvivalent Extra Randyho s vyšším RPM/Escape Velocity.
+//notes:Vow of the DIsciple SMG, 900 RPM, má skvělej feel; Ekvivalent Extra Randyho s vyšším RPM/Escape Velocity; Godroll: Overflow/Subs + DMG perk
+dimwishlist:item=3886416794
 dimwishlist:item=3886416794&perks=1820235745,4104185692
 dimwishlist:item=3886416794&perks=3643424744,4104185692
 dimwishlist:item=3886416794&perks=1820235745,3523296417
 dimwishlist:item=3886416794&perks=3643424744,3523296417
 
 // Supremacy
-//notes:PvE: 7mag, Snapshot + Tripple Tap
+//notes:Last Wish snipa, někdejší go-to; burst DPS volba; Godroll: 7mag + Snapshot + Tripple Tap
 dimwishlist:item=686951703
 dimwishlist:item=686951703&perks=1087426260,957782887,3400784728
 dimwishlist:item=686951703&perks=2420895100,957782887,3400784728
 
 // Chattering Bone
-//notes: Last Wish pulska, protáhla mě několika day 1 raidy; super perky, super feel
-dimwishlist:item=568515759&perks=839105230,1561002382,1168162263,3425386926
-dimwishlist:item=568515759,1168162263,3425386926
+//notes: Last Wish pulska, protáhla mě několika day 1 raidy; super perky, super feel; Godroll: Outlaw + Rampage
 dimwishlist:item=568515759
+dimwishlist:item=568515759&perks=1168162263,3425386926
 
 // Deliverance
-//notes: Jediná kinetická fusiona; nemá nejhorší perky; Bait and Switch - raid perk; taky může být super|tags:pve
+//notes: Jediná kinetická fusiona; nemá nejhorší perky; Godroll: Liquid Coils + Cornered + Surrounded|tags:pve
+dimwishlist:item=768621510
 dimwishlist:item=768621510&perks=1687452232,1799762209,3708227201
 dimwishlist:item=768621510&perks=689005463,1799762209,3708227201
 dimwishlist:item=768621510&perks=1687452232,3523296417,3708227201
@@ -52,59 +55,62 @@ dimwishlist:item=768621510&perks=1687452232,3523296417,11612903
 dimwishlist:item=768621510&perks=689005463,3523296417,11612903
 
 // Fatebringer
-//notes: Asi nejlepší PvE handcannon; Godroll: range+Explosive Payload+Firefly|tags:PvE
-dimwishlist:item=2171478765,3038247973,3824105627
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692,684616255
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1561789734,684616255
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,3824105627,684616255
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692,2697220197
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1561789734,2697220197
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,3824105627,2697220197
+//notes: Vault of Glass hand cannon; Asi nejlepší PvE handcannon; Godroll: range + Explosive Payload + Firefly|tags:PvE
+dimwishlist:item=2171478765
+dimwishlist:item=2171478765&perks=3038247973,4104185692
+dimwishlist:item=2171478765&perks=3038247973,1561789734
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+dimwishlist:item=2171478765&perks=3142289711,3038247973,4104185692
+dimwishlist:item=2171478765&perks=3142289711,3038247973,1561789734
+dimwishlist:item=2171478765&perks=3142289711,3038247973,3824105627
 
 // Fatebringer (Adept)
-//notes: Asi nejlepší PvE handcannon; Godroll: range+Explosive Payload+Firefly|tags:PvE
-dimwishlist:item=1216319404,3038247973,3824105627
-dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,4104185692,684616255
-dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734,684616255
-dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,3824105627,684616255
-dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,4104185692,2697220197
-dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734,2697220197
-dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,3824105627,2697220197
+//notes: Vault of Glass hand cannon; Asi nejlepší PvE handcannon; Godroll: range + Explosive Payload + Firefly|tags:PvE
+dimwishlist:item=1216319404
+dimwishlist:item=1216319404&perks=3038247973,4104185692
+dimwishlist:item=1216319404&perks=3038247973,1561789734
+dimwishlist:item=1216319404&perks=3038247973,3824105627
+dimwishlist:item=1216319404&perks=3142289711,3038247973,4104185692
+dimwishlist:item=1216319404&perks=3142289711,3038247973,1561789734
+dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627
 
 // Heritage
-//notes: Nejlepší PvE Slug Shotty, pořád viable na hotswap; Godroll: handling+Assault Mag+Reconstruction+Recombination|tags:PvE
-dimwishlist:item=4248569242,791862061,1523832109,469285294
-dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294,186337601
-dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294,186337601
-dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294,2357520979
-dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294,2357520979
-
-// Piece of Mind
-//notes: Super kinetická pulska; Godroll: Arrowbead Brake, High Cals, Overflow/Autoloading, Focused Fury|tags:PvE
-dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,2896038713
+//notes: Deep Stone Crypt shotguna; Nejlepší PvE Slug Shotty, pořád viable na hotswap; Godroll: handling + Assault Mag + Reconstruction + Recombination|tags:PvE
+dimwishlist:item=4248569242
+dimwishlist:item=4248569242&perks=,791862061,1523832109,469285294
 
 // Succession
-//notes: Nejlepší PvE Agressive snipa, chceš mít 5 v magu. One shotuje kyklopy a portály v GoS - must have na lowman; Godroll: Fluted Barrel, Extended Mag, Reconstruction, Recombination, Handling MW
+//notes: Deep Stone Crypt Snipa; Nejlepší PvE Agressive snipa, chceš mít 5 v magu; One shotuje kyklopy a portály v GoS - must have na lowman; Godroll: Fluted Barrel + Extended Mag + Reconstruction + Recombination + Handling MW
+dimwishlist:item=2990047042
 dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391
 dimwishlist:item=2990047042&perks=2420895100,1523832109,957782887
 
+// Piece of Mind
+//notes: Super kinetická pulska; Godroll: Arrowbead Brake + High Cals + Overflow/Autoloading + Focused Fury|tags:PvE
+dimwishlist:item=2097055732
+dimwishlist:item=2097055732&perks=3643424744,2896038713
+
 // Praedyth's Revenge
-//notes: 
+//notes: Vault of Glass snipa; nejlepší burst DPS do kinetiky ve hře; Godroll: handling + 7 v magu + Rewind Rounds + High-Impact Reserves
+dimwishlist:item=3653573172
 dimwishlist:item=3653573172&perks=2420895100,3418782618,2213355989
 dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989
 
 // Praedyth's Revenge (Timelost)
-//notes: 
+//notes: Vault of Glass snipa; nejlepší burst DPS do kinetiky ve hře; Godroll: handling + 7 v magu + Rewind Rounds + High-Impact Reserves
+dimwishlist:item=1987769101
 dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989
 dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989
 
 // Thoughtless
-//notes: 
+//notes: Kinetická 90RPM snipa; ideální do endgame kontentu, kde rapidka nezabije redbary; Godroll: handling + Overflow + Firing Line/Focused Fury
+dimwishlist:item=4067556514
 dimwishlist:item=4067556514&perks=1087426260,3643424744,1771339417
 dimwishlist:item=4067556514&perks=2420895100,3643424744,1771339417
 
 //Eyasluna
-//notes: 
+//notes: Grasp of Avarice hand cannon; rolluje s headstonem/demo, takže je perfektní na granát buildy; Godroll: range + Outlaw + Demo/Headstone
+dimwishlist:item=235827225
 dimwishlist:item=235827225&perks=1168162263,3523296417
 dimwishlist:item=235827225&perks=247725512,3523296417
 dimwishlist:item=235827225&perks=3108830275,3523296417
@@ -119,31 +125,29 @@ dimwishlist:item=235827225&perks=3108830275,1015611457
 dimwishlist:item=235827225&perks=3124871000,1015611457
 
 // Extraordinary Rendition
-//notes: 
+//notes: Super SMG, ale chce to něco na reload, Flared Magwell/Reload MW; Godroll: Overflow + Frenzy
+dimwishlist:item=1097616550
 dimwishlist:item=1097616550&perks=3643424744,3425386926
 dimwishlist:item=1097616550&perks=1820235745,3425386926
 dimwishlist:item=1097616550&perks=3643424744,4104185692
 dimwishlist:item=1097616550&perks=1820235745,4104185692
 
-
-
-
 // Long Shadow
-//notes: 
+//notes: Kinetická snipa, která může rollovat zajímavý komba perků; Godroll: Snapshot + Triple Tap, Rapid Hit + Triple Tap, Field Prep + Triple Tap
+dimwishlist:item=3745990145
 dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728
 dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728
 dimwishlist:item=3745990145&perks=2420895100,957782887,3400784728
 dimwishlist:item=3745990145&perks=1087426260,957782887,3400784728
 
-
-
-
 // Nightwatch
-//notes: 
+//notes: Nejlepší scoutka ve hře, někdejší gambit drop; godroll se dá získat z new light kampaně; Godroll: Rapid Hit/Overflow + Explosive Payload
+dimwishlist:item=3504336176
 dimwishlist:item=3504336176,247725512,3038247973
 
 // Sacred Provenance
-//notes: 
+//notes: Garden of Salvation pulska; unikátní archetyp - 4 burst, jsou jen dvě ve hře; Godroll: Outlaw/Rapid Hit + Kill Clip
+dimwishlist:item=2408405461
 dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457
 dimwishlist:item=2408405461&perks=679225683,247725512,1015611457
 dimwishlist:item=2408405461&perks=1885400500,247725512,1015611457
@@ -154,11 +158,9 @@ dimwishlist:item=2408405461&perks=1561002382,3124871000,1015611457
 dimwishlist:item=2408405461&perks=679225683,3124871000,1015611457
 dimwishlist:item=2408405461&perks=1885400500,3124871000,1015611457
 
-
-
-
 // The Last Breath
-//notes: 
+//notes: Prophecy AR; dobrá volba na granát buildy; Godroll: Demo+Frenzy
+dimwishlist:item=507038823
 dimwishlist:item=507038823&perks=679225683,3523296417,1774574192
 dimwishlist:item=507038823&perks=1885400500,3523296417,1774574192
 dimwishlist:item=507038823&perks=679225683,1820235745,1774574192
@@ -177,35 +179,45 @@ dimwishlist:item=507038823&perks=679225683,1820235745,11612903
 dimwishlist:item=507038823&perks=1885400500,1820235745,11612903
 
 // Judgement
-//notes:
+//notes: Prophecy hand cannon; super na granát buildy; Godroll: Demo+Osmosis
+dimwishlist:item=1476654960
 dimwishlist:item=1476654960&perks=3523296417,1954620775
 dimwishlist:item=1476654960&perks=3523296417,1774574192
 dimwishlist:item=1476654960&perks=3523296417,11612903
 
 // Hung Jury
+//notes: Nightfall scoutka, obdoba night watch, ale horší archetyp; Godroll: Rapid Hit + Explosive Payload
+dimwishlist:item=4281371574
 dimwishlist:item=4281371574,247725512,3038247973
 
 // Hung Jury (Adept)
+//notes: Nightfall scoutka, obdoba night watch, ale horší archetyp; Godroll: Rapid Hit + Explosive Payload
+dimwishlist:item=681067419
 dimwishlist:item=681067419,247725512,3038247973
 
 // Fortissimo-11
-//notes:
+//notes: Slug shotgun ze striků; náhrada za Heritage; Godroll: handling + Assault Mag + FTTC + Focused Fury
+dimwishlist:item=2821430069
 dimwishlist:item=2821430069&perks=791862061,1354429876,2896038713
 
 // Ragnhild-D
-//notes:
+//notes: Aggressive kinetic shotgun, dá se craftit, ideální volba pro 1-2 punch buildy; Godroll: Full Choke + Autoloading + 1-2 Punch
+dimwishlist:item=4225322581
 dimwishlist:item=4225322581,1047830412,3300816228,2679249093
 
 // Whispering Slab
-//notes: 
+//notes: Jedinej luk, kterej může mít Vorpal - ideální na championy; Godroll: Archer's Tempo + Vorpal
+dimwishlist:item=211938782
 dimwishlist:item=211938782,201365942,1546637391
 
 // 7th Seraph Officer Revolver
-//notes: 
+//notes: Handcannon do endgame contentu; používat jen s Warmind Cells! Godroll: Timed Payload
+dimwishlist:item=3037520408
 dimwishlist:item=3037520408,3230963543,972757866,1954620775
 
 // 7th Seraph Carabine
-//notes: 
+//notes: AR, která spawnuje Warmind Cells, supr anti-barrier volba; Godroll: Autoloading + Vorpal
+dimwishlist:item=1561006927
 dimwishlist:item=1561006927&perks=3300816228,3425386926
 dimwishlist:item=1561006927&perks=4071163871,3425386926
 dimwishlist:item=1561006927&perks=1354429876,3425386926
@@ -386,18 +398,18 @@ dimwishlist:item=1481892490&perks=3124871000,4049631843
 // Vouchsafe
 //notes: Dreaming City scoutka, perfektní volba jak na barriery, tak na overloady
 dimwishlist:item=3242168339&perks=247725512,1546637391
-dimwishlist:item=3242168339&perks=1840239774,3142289711,247725512,3038247973
-dimwishlist:item=3242168339&perks=1840239774,3142289711,247725512,1546637391
+dimwishlist:item=3242168339&perks=247725512,3038247973
 dimwishlist:item=3242168339
 
 // Vision of Confluence
 //notes: 
-dimwishlist:item=3186018373,3418782618,1683379515
 dimwishlist:item=3186018373&perks=3418782618,1683379515
+dimwishlist:item=3186018373
 
 // Vision of Confluence (Adpet)
 //notes: 
-dimwishlist:item=690668916,3418782618,1683379515
+dimwishlist:item=690668916&perks=3418782618,1683379515
+dimwishlist:item=690668916
 
 // Fugue-55
 //notes: 
