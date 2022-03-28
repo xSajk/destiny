@@ -21,4 +21,4 @@ Tzn. když nemá wishlist notes tak pravděpodobně není dobrá.
 
 Budu se snažit updatovat Wishlist když vyjdou nové zbraně, ale to bude třeba týden po tom, co vyjdou.
 
-Vaše nápady a připomínky můžete směřovat na discord **Sajk#9999**
+Vaše nápady a připomínky můžete směřovat na discord **Sajk#6969**
