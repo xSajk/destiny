@@ -227,6 +227,24 @@ dimwishlist:item=1561006927
 
 //---------------------ENERGY WEAPONS---------------------ENERGY WEAPONS---------------------ENERGY WEAPONS---------------------\\
 
+// Ikelo SG
+//notes:Ikelos Shotty; kdysi nejlepší DPS option, pořád decentní shotty na méně náročný kontent; Godroll: Lead from Gold + Trench Barrel (DPS)/Surrounded (občasné zabíjení majorů)
+dimwishlist:item=1096206669&perks=1556840489,3708227201
+dimwishlist:item=1096206669&perks=1556840489,1546637391
+dimwishlist:item=1096206669&perks=1556840489,806159697
+dimwishlist:item=1096206669&perks=1556840489,2360754333
+dimwishlist:item=1096206669
+
+// 7th Seraph CQC
+//notes:Spíše PvP zbraň, ale dokáže generovat Warmind Cells; když jsou shotguny jako unstoppable, tak je tohle jedna z lepších možností. Obzvláště na solo legend/master lost sectory
+dimwishlist:item=1821724780&perks=1556840489,1546637391
+dimwishlist:item=1821724780&perks=3300816228,1546637391
+dimwishlist:item=1821724780&perks=1556840489,806159697
+dimwishlist:item=1821724780&perks=3300816228,806159697
+dimwishlist:item=1821724780&perks=1556840489,2360754333
+dimwishlist:item=1821724780&perks=3300816228,2360754333
+dimwishlist:item=1821724780
+
 // Aisha's Embrace
 //notes:Trials of Osiris rapid-fire scout; nádherná zbraň, ale určitě není meta; ideální jako anti-barrier scoutka, nebo na general gameplay s mkc; Godroll: Triple Tap + Vorpal
 dimwishlist:item=2638190703&perks=3400784728,1546637391
