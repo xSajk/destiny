@@ -43,17 +43,60 @@ dimwishlist:item=1141927949&perks=1168162263,3047969693
 dimwishlist:item=1141927949&perks=3124871000,3047969693
 dimwishlist:item=1141927949
 
+// Brigand's Law
+//notes: Troufnu si říct, že je to dobrá sidearma jen kvůli unikátnímu a fun perku, Voltshot
+dimwishlist:item=1298815317&perks=2779035018,2173046394
+dimwishlist:item=1298815317
 
-
-
-
+// Tarnished Mettle
+//notes: 200RPM Scoutka - nejlepší archetype, má supr perky, scope je pěkná, určitě doporučuju
+dimwishlist:item=2218569744&perks=247725512,3038247973
+dimwishlist:item=2218569744&perks=3523296417,3038247973
+dimwishlist:item=2218569744
 
 //---------------------------------------------------------KING'S FALL RAID--------------------------------------------------------\\
 
+// Zaouli's Bane
+//notes: King's Fall handcannon, unikátlí reload animace, unikátní perky; určitě aspoň vyzkoušet
+dimwishlist:item=431721920&perks=3038247973,4293542123
+dimwishlist:item=431721920&perks=3038247973,4049631843
+dimwishlist:item=431721920&perks=3038247973,1561789734
+dimwishlist:item=431721920&perks=3038247973,3523296417
+dimwishlist:item=431721920&perks=3038247973,3824105627
+dimwishlist:item=431721920
 
+// Doom of Chelchis
+//notes: King's Fall Scoutka s unikátníma perkama (konkrétně teda firefly+dragony fly); jako užitečnej roll do GM bych považoval Explosive Payload + Frenzy, nebo Drahon/Firefly
+dimwishlist:item=1937552980&perks=1546637391,2848615171
+dimwishlist:item=1937552980&perks=1561789734,2848615171
+dimwishlist:item=1937552980&perks=3038247973,2848615171
+dimwishlist:item=1937552980&perks=3824105627,2848615171
+dimwishlist:item=1937552980&perks=1546637391,4104185692
+dimwishlist:item=1937552980&perks=1561789734,4104185692
+dimwishlist:item=1937552980&perks=3038247973,4104185692
+dimwishlist:item=1937552980&perks=3824105627,4104185692
+dimwishlist:item=1937552980&perks=1546637391,4049631843
+dimwishlist:item=1937552980&perks=1561789734,4049631843
+dimwishlist:item=1937552980&perks=3038247973,4049631843
+dimwishlist:item=1937552980&perks=3824105627,4049631843
+dimwishlist:item=1937552980
 
+// Smite of Merain
+//notes: King's Fall Pulska, unikátní perky, skvělej feel; Demo+Firefly
+dimwishlist:item=2221264583&perks=3523296417,4049631843
+dimwishlist:item=2221264583&perks=1583705720,4049631843
+dimwishlist:item=2221264583&perks=3523296417,1561789734
+dimwishlist:item=2221264583&perks=1583705720,1561789734
+dimwishlist:item=2221264583&perks=3523296417,11612903
+dimwishlist:item=2221264583&perks=1583705720,11612903
+dimwishlist:item=2221264583&perks=3523296417,3824105627
+dimwishlist:item=2221264583&perks=1583705720,3824105627
+dimwishlist:item=2221264583
 
-
+// Defiance of Yasmin
+//notes: King's Fall Snipa; i když má celkem fajn rolly na PvE, tak její použití bude spíše na PvP; na PvE jsou lepší alternativy a do PvP má skvělý kombo Snap+Opening Shot
+dimwishlist:item=3228096719&perks=957782887,47981717
+dimwishlist:item=3228096719
 
 //------------------------------------------------------SEASON OF THE HAUNTED-----------------------------------------------------\\
 
@@ -73,9 +116,6 @@ dimwishlist:item=502356570
 //notes:Ad clear smh, best in slot obzvlášť pro solar buildy; Incandescent je must have
 dimwishlist:item=2490988246&perks=3108830275,4293542123
 dimwishlist:item=2490988246
-
-
-
 
 //---------------------------------------------------------DUALITY DUNGEON--------------------------------------------------------\\
 
@@ -119,8 +159,6 @@ dimwishlist:item=2026087437&perks=3301904089,3300816228,3523296417
 dimwishlist:item=2026087437&perks=3032599245,2010801679,3523296417
 dimwishlist:item=2026087437&perks=3301904089,2010801679,3523296417
 dimwishlist:item=2026087437
-
-
 
 //--------------------------------------------------------UPDATED ON 04/2022-------------------------------------------------------\\
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
