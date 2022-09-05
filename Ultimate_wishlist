@@ -1,15 +1,128 @@
 title:Madhous PvE Weapon Whislist v3.2.1 - Updated Godrolls 04/2022
 description:Wishlist podle našich představ, zaměřuje se na nejlepší zbraně s nejlepšími perky. Stručný popis bez zbytečných sraček.
-//-------------------------------------------------------UPDATED ON 09/2022-------------------------------------------------------\\
+
+//--------------------------------------------------------UPDATED ON 09/2022-------------------------------------------------------\\
+//------------------------------------------------------SEASON OF THE PLUNDER------------------------------------------------------\\
+
+// Taipan-4FR
+//notes: Craftable LFR; voidová alternative k Reed's Regret; godroll: Arrowhead Break, Enhanced Battery, Triple Tap, Firing Line (možné použít Clown/Field Prep+Frenzy/Focused Fury pro solo play)
+dimwishlist:item=1911060537&perks=3400784728,1771339417
+dimwishlist:item=1911060537&perks=2284787283,1771339417
+dimwishlist:item=1911060537&perks=3400784728,4104185692
+dimwishlist:item=1911060537&perks=2284787283,4104185692
+dimwishlist:item=1911060537
+
+// AMMIT AR2
+//notes: Sice špatnej archetype, ale s Incandescent je všechno dobrý; feeluje taky dobře, tak proč ne
+dimwishlist:item=2119346509&perks=2010801679,4293542123
+dimwishlist:item=2119346509&perks=1583705720,4293542123
+dimwishlist:item=2119346509&perks=3436462433,4293542123
+dimwishlist:item=2119346509
+
+// Riptide
+//notes: Kinetická (Stasis) Fusiona z PvP, má supr rolly; Ideální roll na DPS je Accelerated Coils, Charge Time MW, Autoloading, DMG Perk
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+dimwishlist:item=2715240478&perks=1556840489,2978966579
+dimwishlist:item=2715240478&perks=2869569095,2978966579
+dimwishlist:item=2715240478&perks=3300816228,1546637391
+dimwishlist:item=2715240478&perks=1556840489,1546637391
+dimwishlist:item=2715240478&perks=2869569095,1546637391
+dimwishlist:item=2715240478&perks=3300816228,4104185692
+dimwishlist:item=2715240478&perks=1556840489,4104185692
+dimwishlist:item=2715240478&perks=2869569095,4104185692
+dimwishlist:item=2715240478
+
+// Strident Whistle
+//notes: Jedinej legendary solar bow, kterej stojí za to
+dimwishlist:item=2591241074&perks=201365942,4293542123
+dimwishlist:item=2591241074
+
+// Yesteryear
+//notes: Gambit Pulska; zajímavý kombo RPM s Desperadem
+dimwishlist:item=1141927949&perks=1168162263,3047969693
+dimwishlist:item=1141927949&perks=3124871000,3047969693
+dimwishlist:item=1141927949
 
 
 
 
 
 
+//---------------------------------------------------------KING'S FALL RAID--------------------------------------------------------\\
 
 
- //-------------------------------------------------------UPDATED ON 04/2022-------------------------------------------------------\\
+
+
+
+
+//------------------------------------------------------SEASON OF THE HAUNTED-----------------------------------------------------\\
+
+// Without Remorse
+//notes: Ideální shotty na 1-2 punch buildy
+dimwishlist:item=1478986057&perks=4071163871,2679249093
+dimwishlist:item=1478986057
+
+// Drang
+//notes: Ad clear: Wellspring+Incandescent; Anti-barrier sidearm: Disruption Break+Vorpal
+dimwishlist:item=502356570&perks=3592538738,4293542123
+dimwishlist:item=502356570&perks=1683379515,1546637391
+dimwishlist:item=502356570&perks=3871884143,1546637391
+dimwishlist:item=502356570
+
+// Calus Mini-tool
+//notes:Ad clear smh, best in slot obzvlášť pro solar buildy; Incandescent je must have
+dimwishlist:item=2490988246&perks=3108830275,4293542123
+dimwishlist:item=2490988246
+
+
+
+
+//---------------------------------------------------------DUALITY DUNGEON--------------------------------------------------------\\
+
+// Fixed Odds
+//notes: Ad clear LMG, best in slot
+dimwishlist:item=2194955522&perks=2869569095,4293542123
+dimwishlist:item=2194955522
+
+// Unforgiven
+//notes: Duality SMG, skvělý perky, skvělej vzhled, jen ten reload trochu pokulhává
+dimwishlist:item=3000847393&perks=3523296417,4104185692
+dimwishlist:item=3000847393&perks=3523296417,11612903
+dimwishlist:item=3000847393&perks=3523296417,2610012052
+dimwishlist:item=3000847393
+
+// Stormchaser
+//notes: Unikátní LFR (3 burst), solidní dmg, ale na Cataclysmic to nemá; definitivně ale užitečná a hodně dobrá lineárka
+dimwishlist:item=3652506829&perks=247725512,4104185692
+dimwishlist:item=3652506829&perks=2284787283,4104185692
+dimwishlist:item=3652506829&perks=3300816228,4104185692
+dimwishlist:item=3652506829&perks=247725512,1546637391
+dimwishlist:item=3652506829&perks=2284787283,1546637391
+dimwishlist:item=3652506829&perks=3300816228,1546637391
+dimwishlist:item=3652506829&perks=247725512,1771339417
+dimwishlist:item=3652506829&perks=2284787283,1771339417
+dimwishlist:item=3652506829&perks=3300816228,1771339417
+dimwishlist:item=3652506829
+
+// Lingering Dread
+//notes: Nádherný GLko do kinetic slotu; ideální jako Blinding GL s Chill Clipem jako bonus 
+dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
+dimwishlist:item=2026087437&perks=3301904089,3300816228,2978966579
+dimwishlist:item=2026087437&perks=3032599245,2010801679,2978966579
+dimwishlist:item=2026087437&perks=3301904089,2010801679,2978966579
+dimwishlist:item=2026087437&perks=3032599245,3300816228,960810156
+dimwishlist:item=2026087437&perks=3301904089,3300816228,960810156
+dimwishlist:item=2026087437&perks=3032599245,2010801679,960810156
+dimwishlist:item=2026087437&perks=3301904089,2010801679,960810156
+dimwishlist:item=2026087437&perks=3032599245,3300816228,3523296417
+dimwishlist:item=2026087437&perks=3301904089,3300816228,3523296417
+dimwishlist:item=2026087437&perks=3032599245,2010801679,3523296417
+dimwishlist:item=2026087437&perks=3301904089,2010801679,3523296417
+dimwishlist:item=2026087437
+
+
+
+//--------------------------------------------------------UPDATED ON 04/2022-------------------------------------------------------\\
 //---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------KINETIC WEAPONS---------------------\\
 
 // Pardon Our Dust
